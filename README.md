@@ -1,6 +1,5 @@
 #### Hi there 👋
-### I'm Shival Gupta <i>alias</i> Peak Master
-<hr>
+## I'm Shival Gupta <i>alias</i> Peak Master
 
 <!--
 **Shival-Gupta/Shival-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
