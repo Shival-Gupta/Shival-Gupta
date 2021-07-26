@@ -1,4 +1,4 @@
-#### Hi there 👋
+### Hi there 👋
 ## I'm Shival Gupta <i>alias</i> Peak Master
 
 <!--
