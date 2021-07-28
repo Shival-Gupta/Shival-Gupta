@@ -68,23 +68,24 @@ Here are some ideas to get you started:
  </a><a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a></p>
 -->
  
-<br><br><br><br>
 
-<details open>
- <summary><b>My Github Stats</b>:</summary>
-
-<br>
-
-<p align = "center">
+<details>
+  <summary><b>My Github Stats</b></summary>
+  <br>
+  
+  <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Shival-Gupta&show_icons=true&count_private=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Shival-Gupta&hide=css,java,html&count_private=true&theme=tokyonight">
+  </p>
+</details>
+
+<p align = "left">&nbsp &nbsp 
+  <sub><a href="https://github.com/Shival-Gupta/">
+  <img src="https://komarev.com/ghpvc/?username=Shival-Gupta" alt="Shival-Gupta" />
+  </a></sub>
 </p>
 
 
-</details>
-<a href="https://github.com/Shival-Gupta/">
-  <img src="https://komarev.com/ghpvc/?username=Shival-Gupta&label=Views&color=blue&style=plastic" alt="Shival-Gupta" />
-</a>
 
 
 
