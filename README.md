@@ -82,8 +82,8 @@ Here are some ideas to get you started:
 
 
 </details>
-<a href="https://github.com/swasthikshetty10">
-  <img src="https://komarev.com/ghpvc/?username=Shival-Gupta&label=Views&color=blue&style=plastic" alt="swasthikshetty10" />
+<a href="https://github.com/Shival-Gupta/">
+  <img src="https://komarev.com/ghpvc/?username=Shival-Gupta&label=Views&color=blue&style=plastic" alt="Shival-Gupta" />
 </a>
 
 
