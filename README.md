@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--- GIF --->
-<img align="right" src="https://media.discordapp.net/attachments/532605954995519520/869243969094180934/Coding.gif" width="480" height="270" alt="Coding Looney Tunes GIF">
+
 
 <p>
 <!--- Gmail --->
@@ -84,6 +83,9 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=Shival-Gupta" alt="Shival-Gupta" />
   </a></sub>
 </p>
+
+<!--- GIF --->
+<img align="right" src="https://media.discordapp.net/attachments/532605954995519520/869243969094180934/Coding.gif" width="480" height="270" alt="Coding Looney Tunes GIF">
 
 
 
