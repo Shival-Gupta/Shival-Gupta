@@ -1,25 +1,30 @@
 #### Hi there 👋
-### I'm <a href="https://shival-gupta.github.io/">Shival Gupta</a> <i>alias</i> Peak Master
+### I'm <a href="https://shival-gupta.github.io/">Shival Gupta</a>
 
 <!--- GIF --->
 <img align="right" src="https://media.discordapp.net/attachments/532605954995519520/869243969094180934/Coding.gif" width="480" height="270" alt="Coding Looney Tunes GIF">
 
-<p>
-<!--- Gmail --->
-<a href="mailto:sgupta.5545@gmail.com">
-  <img align="left" width="20px" alt="Shival's Gmail" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
+<!-- <p>
+<!--- Facebook ---
+<a href="https://www.linkedin.com/in/shival-gupta-949740218">
+  
 </a>
 
-<!--- Discord --->
-<a href="https://discord.gg/GT8VtaE">
-  <img align="left" width="19px" alt="PeakMaster's Server" src="https://img.icons8.com/color/48/000000/discord-logo.png" />
+<!--- Twitter ---
+<a href="https://www.linkedin.com/in/shival-gupta-949740218">
+  
 </a>
-
-<!--- Likedin --->
+ 
+<!--- Linkedin ---
 <a href="https://www.linkedin.com/in/shival-gupta-949740218">
   <img align="left" width="20px" alt="Shival's LinkdeIN" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
-</p>
+  
+<!--- Gmail ---
+<a href="https://www.linkedin.com/in/shival-gupta-949740218">
+  <img align="left" width="20px" alt="Shival's LinkdeIN" src="https://img.icons8.com/color/48/000000/linkedin.png" />
+</a>
+</p> -->
 
 <br><br>
 - Gamer, who develops game
