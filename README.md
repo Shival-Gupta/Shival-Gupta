@@ -24,9 +24,9 @@
 <a href="https://www.linkedin.com/in/shival-gupta-949740218">
   <img align="left" width="20px" alt="Shival's LinkdeIN" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
-</p> -->
+</p> 
 
-<br><br>
+<br><br> -->
 - Gamer, who develops game
 - Pianist, who produces music
 - UI/UX designer
