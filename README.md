@@ -27,9 +27,9 @@
 </p> 
 
 <br><br> -->
-- Gamer, who develops game
-- Pianist, who produces music
-- UI/UX designer
+- Gamer + Game Developer
+- Pianist + Digital Music Producer
+- UI/UX Designer
 - Of course I do code
 
 <br>
