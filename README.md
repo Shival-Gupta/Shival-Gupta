@@ -1,57 +1,70 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:004aeb&height=180&section=header&text=SHIVAL%20GUPTA&fontSize=70&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:004aeb&height=160&section=header&text=SHIVAL%20GUPTA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38" alt="header" />
 </p>
 
 <p align="center">
-  <b>AI & Robotics • Game Dev • XR • Pianist</b>
+  <b>AI & Robotics  •  Game Development  •  XR  •  Pianist</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00e5ff&center=true&vCenter=true&width=435&lines=I+build+autonomous+systems;I+design+immersive+worlds;I+play+88-key+logic" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00e5ff&center=true&vCenter=true&width=520&lines=Building+autonomous+intelligent+systems;Crafting+immersive+XR+experiences;Where+engineering+meets+creative+expression" alt="typing svg" />
 </p>
+
+<br>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shival-Gupta&theme=dracula&hide_border=true&border_radius=8)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-## 🧬 Technical DNA
+### 🧬 Technical DNA
 
-<p>
-  <b>[0x01] Creative Engines & XR</b><br/>
-  <img src="https://skillicons.dev/icons?i=unity,cs,blender,unreal,ae,figma&theme=dark" alt="Creative Tech" />
-</p>
+**Creative Engines & XR**  
+<img src="https://skillicons.dev/icons?i=unity,cs,blender,unreal,ae,figma&theme=dark" alt="creative stack" />
 
-<p>
-  <b>[0x02] Robotics & Autonomous Systems</b><br/>
-  <img src="https://skillicons.dev/icons?i=ros,python,cpp,arduino,raspberrypi,linux,ubuntu&theme=dark" alt="Robotics" />
-</p>
+**Robotics & Autonomous Systems**  
+<img src="https://skillicons.dev/icons?i=ros,python,cpp,arduino,raspberrypi,linux,ubuntu&theme=dark" alt="robotics stack" />
 
-<p>
-  <b>[0x03] Full-Stack & Intelligent Systems</b><br/>
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,postgres,prisma,docker,nodejs,git&theme=dark" alt="Web Systems" />
-</p>
+**Intelligent Full-Stack**  
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,postgres,prisma,docker,nodejs,git&theme=dark" alt="fullstack stack" />
 
----
+<br>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Shival-Gupta&show_icons=true&theme=transparent&title_color=00e5ff&text_color=ffffff&icon_color=00e5ff&hide_border=true" width="380" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shival-Gupta&layout=compact&theme=transparent&title_color=00e5ff&text_color=ffffff&hide_border=true" width="300" />
-    </td>
-  </tr>
-</table>
+### 📈 Contribution Snapshot
 
-<!--
-Optional links / extras — uncomment only if you want them
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shival-Gupta&theme=github_dark" alt="profile details" width="90%" />
+</div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shival-Gupta&theme=github_dark" alt="repos per language" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shival-Gupta&theme=github_dark" alt="most commit language" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shival-Gupta&theme=github_dark" alt="stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shival-Gupta&theme=github_dark&utcOffset=5.5" alt="productive time" width="48%" />
+</div>
+
+<br>
+
+<!-- Uncomment if you want the snake animation (looks cool but can feel busy)
 <p align="center">
-  <a href="https://shivalgupta.me">Website</a> •
-  <a href="https://linkedin.com/in/shival-gupta">LinkedIn</a> •
-  <a href="mailto:sgupta.5545@gmail.com">Email</a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shival-Gupta/Shival-Gupta/output/github-contribution-grid-snake.svg" alt="Snake" />
+  <img src="https://raw.githubusercontent.com/Shival-Gupta/Shival-Gupta/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 -->
+
+### 🌐 Connect
+
+<p align="center">
+  <a href="https://shivalgupta.me"><b>Website</b></a>  •  
+  <a href="https://linkedin.com/in/shival-gupta"><b>LinkedIn</b></a>  •  
+  <a href="mailto:sgupta.5545@gmail.com"><b>Email</b></a>
+</p>
+
+<p align="center">
+  <i>Let's build something intelligent, immersive, or melodic.</i>
+</p>
