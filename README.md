@@ -41,5 +41,5 @@
 </table>
 
 <p align="center">
-  <sub><i>2026</i></sub>
+  <sub><i></i></sub>
 </p>
